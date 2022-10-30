@@ -1,0 +1,29 @@
+{
+  "name": "avro-node-rdkafka",
+  "version": "1.0.0",
+  "description": "Integrating Avro schema validation for kafka producing and consuming messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snthl-s/avro-node-rdkafka.git"
+  },
+  "keywords": [
+    "node",
+    "avro",
+    "librdkafka",
+    "1.9.2",
+    "Apache",
+    "Kafka",
+    "openssl",
+    "JS"
+  ],
+  "author": "snthl-s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snthl-s/avro-node-rdkafka/issues"
+  },
+  "homepage": "https://github.com/snthl-s/avro-node-rdkafka#readme"
+}
